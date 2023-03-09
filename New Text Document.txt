@@ -1,0 +1,7 @@
+Kaggle Dataset
+https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
+
+Github
+https://github.com/campusx-official/book-recommender-system
+
+model file stores all the pickle files
